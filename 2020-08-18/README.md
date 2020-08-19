@@ -1,4 +1,7 @@
-# Q&A/Taller: 18 Ago 2020
+# Q&A - Ask Me Anything con @evaferreira92 y testing en React con @lupomontero - 18 Ago 2020
+
+[![LIM012: Q&A - Ask Me Anything con @evaferreira92 y testing en React con @lupomontero - 18 Ago 2020](https://img.youtube.com/vi/WMnG0DabOcQ/0.jpg)](https://youtu.be/WMnG0DabOcQ)
+
 
 ## Invitadxs
 
